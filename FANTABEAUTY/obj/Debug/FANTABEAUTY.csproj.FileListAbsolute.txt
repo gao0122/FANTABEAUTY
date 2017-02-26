@@ -1,0 +1,74 @@
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\bin\Debug\FANTABEAUTY.exe.config
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.exe
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.csprojResolveAssemblyReference.cache
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.clientCn.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.dataPersonalCn.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.infoCn.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.loginCn.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.menuCn.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.signupCn.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.stateCn.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.client.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.dataPersonal.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.info.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.menu.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.signup.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.state.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.login.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Properties.Resources.resources
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.csproj.GenerateResource.Cache
+E:\uic\SENIOR3\Group Project\20151115\UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.exe.licenses
+E:\uic\SENIOR3\Group Project\20151115\中文UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\bin\Debug\FANTABEAUTY.exe.config
+E:\uic\SENIOR3\Group Project\20151115\中文UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.exe
+E:\uic\SENIOR3\Group Project\20151115\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\bin\Debug\FANTABEAUTY.exe.config
+E:\uic\SENIOR3\Group Project\20151115\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.exe
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\bin\Debug\FANTABEAUTY.exe.config
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.exe
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.clientCn.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.dataCn.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.infoCn.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.loginCn.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.menuCn.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.signupCn.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.stateCn.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.client.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.data.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.info.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.menu.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.signup.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.state.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.login.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Properties.Resources.resources
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.exe.licenses
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\bin\Debug\FANTABEAUTY.exe
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\bin\Debug\FANTABEAUTY.pdb
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\bin\Debug\DMSkin.dll
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\bin\Debug\CSkin.xml
+C:\Users\Administrator\Documents\Downloads\合集最终无敌完美UI_FANTABEAUTY\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.pdb
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\bin\Debug\FANTABEAUTY.exe.config
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.exe
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.pdb
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.clientCn.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.dataCn.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.infoCn.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.loginCn.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.menuCn.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.signupCn.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Chinese_version.stateCn.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.client.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.data.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.info.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.menu.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.signup.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.state.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.English_version.login.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.Properties.Resources.resources
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\obj\Debug\FANTABEAUTY.exe.licenses
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\bin\Debug\FANTABEAUTY.exe
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\bin\Debug\FANTABEAUTY.pdb
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\bin\Debug\DMSkin.dll
+C:\Users\Administrator\Documents\Downloads\有漂亮UI的终极版\FANTABEAUTY\FANTABEAUTY\bin\Debug\CSkin.xml

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Service>
+  <A time="45">120</A> 
+  <B time="60">80</B>
+  <C time="45">88</C>
+  <D time="40">98</D>
+  <E time="30">158</E>
+  <F time="75">210</F>
+</Service>
